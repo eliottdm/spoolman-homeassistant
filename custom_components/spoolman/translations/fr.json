@@ -4,37 +4,37 @@
             "user": {
                 "title": "Configuration",
                 "data": {
-                    "spoolman_url": "Host (incl. protocol)",
-                    "update-interval": "Update interval (minutes)",
-                    "show_archived": "Show archived",
-                    "notification_threshold_info": "Threshold Info",
-                    "notification_threshold_warning": "Threshold Warning",
-                    "notification_threshold_critical": "Threshold Critical",
-                    "klipper_url": "Klipper url",
-                    "klipper_url_desc": "Klipper url"
+                    "spoolman_url": "Hôte (incl. protocole)",
+                    "update-interval": "Intervalle de mise à jour (minutes)",
+                    "show_archived": "Afficher les archivés",
+                    "notification_threshold_info": "Seuil d'information",
+                    "notification_threshold_warning": "Seuil d'avertissement",
+                    "notification_threshold_critical": "Seuil critique",
+                    "klipper_url": "URL Klipper",
+                    "klipper_url_desc": "URL Klipper"
                 }
             }
         },
         "error": {
-            "already_configured": "Device is already configured"
+            "already_configured": "L'appareil est déjà configuré"
         },
         "abort": {
-            "already_configured": "Device is already configured"
+            "already_configured": "L'appareil est déjà configuré"
         }
     },
     "options": {
         "step": {
             "init": {
-                "title": "Konfiguration",
+                "title": "Configuration",
                 "data": {
-                    "spoolman_url": "Host (incl. protocol)",
-                    "update-interval": "Update interval (minutes)",
-                    "show_archived": "Show archived",
-                    "notification_threshold_info": "Threshold Info",
-                    "notification_threshold_warning": "Threshold Warning",
-                    "notification_threshold_critical": "Threshold Critical",
-                    "klipper_url": "Klipper url",
-                    "klipper_url_desc": "Klipper url"
+                    "spoolman_url": "Hôte (incl. protocole)",
+                    "update-interval": "Intervalle de mise à jour (minutes)",
+                    "show_archived": "Afficher les archivés",
+                    "notification_threshold_info": "Seuil d'information",
+                    "notification_threshold_warning": "Seuil d'avertissement",
+                    "notification_threshold_critical": "Seuil critique",
+                    "klipper_url": "URL Klipper",
+                    "klipper_url_desc": "URL Klipper"
                 }
             }
         }
